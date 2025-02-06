@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Haskell caused by the propagation of undefined values.  The `bug.hs` file contains the erroneous code.  `bugSolution.hs` provides a corrected version using pattern matching and more robust error handling. This example highlights the importance of careful type handling and avoiding undefined values in Haskell.
