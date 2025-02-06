@@ -1,0 +1,1 @@
+The solution involves replacing the use of `undefined` with more appropriate handling:  using pattern matching to handle all possible cases and returning a sensible value, or explicitly raising an exception using `error` for exceptional cases. The improved code checks for different input cases and return appropriate results without introducing undefined values.
